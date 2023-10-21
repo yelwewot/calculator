@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Sherwin\'s Calculator</string>
+    <string name="division">/</string>
+    <string name="conversion">%</string>
+    <string name="plusminus">+/-</string>
+    <string name="ac">AC</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="multiplication">*</string>
+    <string name="subtraction">-</string>
+    <string name="six">6</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="addition">+</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="zero">0</string>
+    <string name="decimal">.</string>
+    <string name="equals">=</string>
+    <item name="resultText" type="id" />
+    <item name="buAC" type="id" />
+    <item name="buplusminus" type="id" />
+    <item name="buconversion" type="id" />
+    <item name="budivide" type="id" />
+    <item name="buseven" type="id" />
+    <item name="bueight" type="id" />
+    <item name="bunine" type="id" />
+    <item name="bumultiplication" type="id" />
+    <item name="busubtraction" type="id" />
+    <item name="busix" type="id" />
+    <item name="bufive" type="id" />
+    <item name="bufour" type="id" />
+    <item name="buaddition" type="id" />
+    <item name="buthree" type="id" />
+    <item name="butwo" type="id" />
+    <item name="buone" type="id" />
+    <item name="buzero" type="id" />
+    <item name="budecimal" type="id" />
+    <item name="buequals" type="id" />
+
+</resources>
